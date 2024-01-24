@@ -1,8 +1,7 @@
-# React + Vite
+# CSS UUID Generator
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A simple experimental way to create "throw away" CSS class names to mitigate naming decision fatigue by generating random strings as class names.
 
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+1. Choose prefix & suffix (or leave empty)
+2. Press "Copy to Clipboard" (generates a new one after copy)
+3. Paste it clipboarded text in code
